@@ -1,4 +1,3 @@
-# Cybersecurity_Webscrape
 # Cybersecurity Vulnerability Scanner
 
 A comprehensive web scraping tool for discovering and monitoring cybersecurity vulnerabilities, assets, and threats related to any component by simply modifying the keywords in the JSON configuration.
