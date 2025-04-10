@@ -1,0 +1,70 @@
+{
+    "keywords": [
+        {
+            "word": "James Webb Space Telescope cyber attack",
+            "category": "security",
+            "priority": "high",
+            "date_added": "2025-02-19"
+        },
+        {
+            "word": "JWST zero-day vulnerability",
+            "category": "CVE",
+            "priority": "critical",
+            "date_added": "2025-01-05"
+        },
+        {
+            "word": "James Webb Telescope hacking incident",
+            "category": "security",
+            "priority": "medium",
+            "date_added": "2024-11-22"
+        },
+        {
+            "word": "NASA JWST malware breach",
+            "category": "malware",
+            "priority": "high",
+            "date_added": "2024-10-18"
+        },
+        {
+            "word": "James Webb Telescope phishing attack",
+            "category": "social engineering",
+            "priority": "medium",
+            "date_added": "2024-08-30"
+        },
+        {
+            "word": "Ball Aerospace James Webb Telescope security vulnerability",
+            "category": "supply chain",
+            "priority": "high",
+            "date_added": "2024-07-14"
+        },
+        {
+            "word": "Northrop Grumman JWST cyber threat",
+            "category": "supply chain",
+            "priority": "critical",
+            "date_added": "2024-06-10"
+        },
+        {
+            "word": "NASA cybersecurity breach James Webb Telescope",
+            "category": "government security",
+            "priority": "high",
+            "date_added": "2024-05-01"
+        },
+        {
+            "word": "JWST communications network exploit",
+            "category": "network security",
+            "priority": "high",
+            "date_added": "2024-03-27"
+        },
+        {
+            "word": "James Webb Telescope Deep Space Network hack",
+            "category": "network security",
+            "priority": "critical",
+            "date_added": "2024-02-15"
+        },
+        {
+            "word": "Lockheed Martin JWST supply chain risk",
+            "category": "supply chain",
+            "priority": "medium",
+            "date_added": "2023-12-11"
+        }
+    ]
+}
