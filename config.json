@@ -1,0 +1,19 @@
+{
+  "scan_interval": 3600,
+  "max_api_calls": {
+    "google": 50,
+    "shodan": 50,
+    "nvd": 100,
+    "cisa": 50,
+    "otx": 20,
+    "xforce": 20,
+    "urlscan": 20
+  },
+  "rotation": {
+    "use_proxies": false,
+    "rotate_user_agents": true
+  },
+  "output": {
+    "save_interval": 300
+  }
+}

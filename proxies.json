@@ -1,0 +1,10 @@
+{
+    "proxies": [
+        
+    ],
+    "examples": [
+        "http://user:pass@proxy1.example.com:8080",
+        "http://user:pass@proxy2.example.com:8080",
+        "http://proxy3.example.com:8080"
+    ]
+} 

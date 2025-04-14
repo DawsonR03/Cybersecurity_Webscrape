@@ -1,0 +1,25 @@
+{
+    "nvd": "your-nvd-api-key-here",
+    "google": "your-google-api-key-here",
+    "google_cse": "your-google-custom-search-engine-id-here",
+    "shodan": "your-shodan-api-key-here",
+    "otx": "your-alienvault-otx-api-key-here",
+    "xforce": "your-ibm-xforce-api-key-here",
+    "xforce_password": "your-ibm-xforce-api-password-here",
+    "urlscan": "your-urlscan-api-key-here",
+    "github": "your-github-token-here",
+    "darkweb": "your-darkweb-monitoring-api-key-here",
+    
+    "registration_links": {
+        "nvd": "https://nvd.nist.gov/developers/request-an-api-key",
+        "google": "https://console.cloud.google.com/apis/credentials",
+        "google_cse": "https://programmablesearchengine.google.com/cse/create/new",
+        "shodan": "https://account.shodan.io/register",
+        "otx": "https://otx.alienvault.com/api",
+        "xforce": "https://exchange.xforce.ibmcloud.com/settings/api",
+        "urlscan": "https://urlscan.io/user/profile/",
+        "github": "https://github.com/settings/tokens"
+    },
+    
+    "note": "This is an example file. Copy this to api_keys.json and replace the placeholders with your actual API keys. For secure storage, set the API_KEY_SECRET environment variable to a strong random value."
+} 
