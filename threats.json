@@ -1,0 +1,2574 @@
+[
+    {
+        "name": "Threat 1 from James Webb Space Telescope cyber attack",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope cyber attack",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 3.5685416175699722,
+            "severity": "High",
+            "likelihood": "Low",
+            "impact": "Significant"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=cybersecurity%20threats&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb Space Telescope cyber attack",
+        "description": "Threat involving Threat 2 from James Webb Space Telescope cyber attack",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 5.860546478906586,
+            "severity": "Critical",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "Cozy Bear"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=malware%20analysis&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from James Webb Space Telescope cyber attack",
+        "description": "Threat involving Threat 3 from James Webb Space Telescope cyber attack",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 5.29314406434333,
+            "severity": "Critical",
+            "likelihood": "Medium",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "Cozy Bear"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious479.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.google.com/search?q=DDOS%20protection"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from James Webb Space Telescope cyber attack",
+        "description": "Threat involving Threat 4 from James Webb Space Telescope cyber attack",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 6.2459617864774755,
+            "severity": "Medium",
+            "likelihood": "Medium",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "Conti"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.214.54"
+            ],
+            "domains": [
+                "malicious953.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 5 from James Webb Space Telescope cyber attack",
+        "description": "Threat involving Threat 5 from James Webb Space Telescope cyber attack",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 8.691436689580483,
+            "severity": "Medium",
+            "likelihood": "Low",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "Lazarus Group"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f67996"
+            ]
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=DDOS%20protection&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from Webb Telescope exploit",
+        "description": "Threat involving Threat 4 from Webb Telescope exploit",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 6.478497443413321,
+            "severity": "Medium",
+            "likelihood": "High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=phishing%20campaigns&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Webb Telescope hack",
+        "description": "Threat involving Threat 1 from Webb Telescope hack",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 4.070123410961453,
+            "severity": "Low",
+            "likelihood": "Medium",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f64251"
+            ]
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=cybersecurity%20threats&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from Webb Telescope hack",
+        "description": "Threat involving Threat 4 from Webb Telescope hack",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 7.789011630205777,
+            "severity": "Medium",
+            "likelihood": "Very High",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "REvil"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.103.186"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Webb Telescope malware",
+        "description": "Threat involving Threat 1 from Webb Telescope malware",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 7.05965284329782,
+            "severity": "High",
+            "likelihood": "Low",
+            "impact": "Moderate"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious907.example.com"
+            ],
+            "hashes": [
+                "a1b2c3d4e5f69116"
+            ]
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from Webb Telescope malware",
+        "description": "Threat involving Threat 2 from Webb Telescope malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 4.468798384984535,
+            "severity": "Medium",
+            "likelihood": "Very High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious518.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.google.com/search?q=phishing%20campaigns"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from Webb Telescope ransomware",
+        "description": "Threat involving Threat 2 from Webb Telescope ransomware",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 4.81699542615555,
+            "severity": "Medium",
+            "likelihood": "Low",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "REvil"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.2.16"
+            ],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f61340"
+            ]
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.google.com/search?q=ransomware%20attacks"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Webb Telescope threat",
+        "description": "Threat involving Threat 1 from Webb Telescope threat",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 3.2804226800524785,
+            "severity": "Critical",
+            "likelihood": "High",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "Lazarus Group"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.158.76"
+            ],
+            "domains": [
+                "malicious805.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Webb Telescope security",
+        "description": "Threat involving Threat 1 from Webb Telescope security",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 3.406775467208384,
+            "severity": "Low",
+            "likelihood": "Very High",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "Sandworm"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f65871"
+            ]
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Webb Telescope CVE",
+        "description": "Threat involving Threat 1 from Webb Telescope CVE",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 4.371580454836211,
+            "severity": "Medium",
+            "likelihood": "Very High",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "REvil"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.180.70"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=DDOS%20protection&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from Webb Telescope CVE",
+        "description": "Threat involving Threat 2 from Webb Telescope CVE",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 9.895551127652057,
+            "severity": "High",
+            "likelihood": "Medium",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "APT29"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.165.165"
+            ],
+            "domains": [
+                "malicious933.example.com"
+            ],
+            "hashes": [
+                "a1b2c3d4e5f62924"
+            ]
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from Webb Telescope CVE",
+        "description": "Threat involving Threat 3 from Webb Telescope CVE",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 1.3363124401558961,
+            "severity": "Critical",
+            "likelihood": "Medium",
+            "impact": "Significant"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f68860"
+            ]
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=APT%20groups&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Webb Telescope zero-day",
+        "description": "Threat involving Threat 1 from Webb Telescope zero-day",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 7.364232958672806,
+            "severity": "Critical",
+            "likelihood": "Low",
+            "impact": "Minimal"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious216.example.com"
+            ],
+            "hashes": [
+                "a1b2c3d4e5f69621"
+            ]
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Webb Telescope backdoor",
+        "description": "Threat involving Threat 1 from Webb Telescope backdoor",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 6.7901200069411685,
+            "severity": "Low",
+            "likelihood": "Low",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "Lazarus Group"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from Webb Telescope backdoor",
+        "description": "Threat involving Threat 3 from Webb Telescope backdoor",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 0.7394923122522489,
+            "severity": "Low",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "BlackCat"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.google.com/search?q=ransomware%20attacks"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from Webb Telescope backdoor",
+        "description": "Threat involving Threat 4 from Webb Telescope backdoor",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 8.054427152778873,
+            "severity": "Medium",
+            "likelihood": "High",
+            "impact": "Moderate"
+        },
+        "threat_actors": [
+            "LockBit"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=ransomware%20attacks&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Webb Telescope compromise",
+        "description": "Threat involving Threat 1 from Webb Telescope compromise",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 1.805398669529068,
+            "severity": "Critical",
+            "likelihood": "High",
+            "impact": "Moderate"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from Webb Telescope compromise",
+        "description": "Threat involving Threat 4 from Webb Telescope compromise",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 0.8791285435150658,
+            "severity": "Critical",
+            "likelihood": "Low",
+            "impact": "Moderate"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f62308"
+            ]
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=malware%20analysis&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Webb Telescope risk",
+        "description": "Threat involving Threat 1 from Webb Telescope risk",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 8.29181715175694,
+            "severity": "Low",
+            "likelihood": "Medium",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "REvil"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f62875"
+            ]
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.google.com/search?q=cybersecurity%20threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from Webb Telescope risk",
+        "description": "Threat involving Threat 2 from Webb Telescope risk",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 5.307407365271663,
+            "severity": "Low",
+            "likelihood": "Low",
+            "impact": "Moderate"
+        },
+        "threat_actors": [
+            "Lazarus Group"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.227.246"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.google.com/search?q=phishing%20campaigns"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from Webb Telescope risk",
+        "description": "Threat involving Threat 3 from Webb Telescope risk",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 0.5794217239085323,
+            "severity": "Medium",
+            "likelihood": "High",
+            "impact": "Moderate"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.120.238"
+            ],
+            "domains": [
+                "malicious518.example.com"
+            ],
+            "hashes": [
+                "a1b2c3d4e5f61699"
+            ]
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=DDOS%20protection&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from Webb Telescope risk",
+        "description": "Threat involving Threat 4 from Webb Telescope risk",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 7.027122415787055,
+            "severity": "Low",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f61225"
+            ]
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.google.com/search?q=phishing%20campaigns"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from JWST zero-day vulnerability",
+        "description": "Threat involving Threat 2 from JWST zero-day vulnerability",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 0.5209192360686945,
+            "severity": "Critical",
+            "likelihood": "High",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "Lazarus Group"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f65552"
+            ]
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from JWST zero-day vulnerability",
+        "description": "Threat involving Threat 3 from JWST zero-day vulnerability",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 9.378036293200386,
+            "severity": "Medium",
+            "likelihood": "High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "APT29"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious473.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=phishing%20campaigns&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope exploit",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope exploit",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 8.23212076231831,
+            "severity": "Low",
+            "likelihood": "Medium",
+            "impact": "Moderate"
+        },
+        "threat_actors": [
+            "Sandworm"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope breach",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope breach",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 5.899989158089064,
+            "severity": "Medium",
+            "likelihood": "Very High",
+            "impact": "Moderate"
+        },
+        "threat_actors": [
+            "Cozy Bear"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious348.example.com"
+            ],
+            "hashes": [
+                "a1b2c3d4e5f64142"
+            ]
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.google.com/search?q=phishing%20campaigns"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb Space Telescope attack",
+        "description": "Threat involving Threat 2 from James Webb Space Telescope attack",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 2.1767889888628593,
+            "severity": "High",
+            "likelihood": "Very High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious389.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope hack",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope hack",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 6.9349154471259284,
+            "severity": "Low",
+            "likelihood": "Low",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "Conti"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.100.141"
+            ],
+            "domains": [
+                "malicious614.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.google.com/search?q=phishing%20campaigns"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb Space Telescope hack",
+        "description": "Threat involving Threat 2 from James Webb Space Telescope hack",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 1.6632984758830254,
+            "severity": "Low",
+            "likelihood": "High",
+            "impact": "Moderate"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=ransomware%20attacks&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from James Webb Space Telescope hack",
+        "description": "Threat involving Threat 3 from James Webb Space Telescope hack",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 2.104561504217497,
+            "severity": "Critical",
+            "likelihood": "Medium",
+            "impact": "Significant"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f64242"
+            ]
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.google.com/search?q=malware%20analysis"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from James Webb Space Telescope hack",
+        "description": "Threat involving Threat 4 from James Webb Space Telescope hack",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 4.237536871323571,
+            "severity": "Low",
+            "likelihood": "Very High",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "BlackCat"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious642.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.google.com/search?q=ransomware%20attacks"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 5 from James Webb Space Telescope hack",
+        "description": "Threat involving Threat 5 from James Webb Space Telescope hack",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 5.487719850528976,
+            "severity": "Medium",
+            "likelihood": "Low",
+            "impact": "Moderate"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope malware",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 5.986694069644995,
+            "severity": "Low",
+            "likelihood": "High",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "Sandworm"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious968.example.com"
+            ],
+            "hashes": [
+                "a1b2c3d4e5f67204"
+            ]
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=DDOS%20protection&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb Space Telescope malware",
+        "description": "Threat involving Threat 2 from James Webb Space Telescope malware",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 3.581236913297203,
+            "severity": "Low",
+            "likelihood": "Low",
+            "impact": "Significant"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious336.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.google.com/search?q=malware%20analysis"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 5 from James Webb Space Telescope malware",
+        "description": "Threat involving Threat 5 from James Webb Space Telescope malware",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 2.4264750673468645,
+            "severity": "Low",
+            "likelihood": "High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.253.70"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope ransomware",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope ransomware",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 1.4174953305747688,
+            "severity": "Medium",
+            "likelihood": "Low",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f63929"
+            ]
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope phishing",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope phishing",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 2.750188118002632,
+            "severity": "Medium",
+            "likelihood": "Medium",
+            "impact": "Moderate"
+        },
+        "threat_actors": [
+            "LockBit"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious736.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb Space Telescope phishing",
+        "description": "Threat involving Threat 2 from James Webb Space Telescope phishing",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 5.297774226306429,
+            "severity": "Medium",
+            "likelihood": "High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "LockBit"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.246.169"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope threat",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope threat",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 8.991118585977958,
+            "severity": "Low",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "BlackCat"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious327.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.google.com/search?q=malware%20analysis"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from James Webb Space Telescope threat",
+        "description": "Threat involving Threat 4 from James Webb Space Telescope threat",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 3.6848691951937886,
+            "severity": "Low",
+            "likelihood": "High",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "APT29"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious965.example.com"
+            ],
+            "hashes": [
+                "a1b2c3d4e5f65731"
+            ]
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.google.com/search?q=phishing%20campaigns"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb Space Telescope security",
+        "description": "Threat involving Threat 2 from James Webb Space Telescope security",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 7.834476283874027,
+            "severity": "Critical",
+            "likelihood": "Medium",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f63119"
+            ]
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from James Webb Space Telescope security",
+        "description": "Threat involving Threat 4 from James Webb Space Telescope security",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 9.183800440772787,
+            "severity": "High",
+            "likelihood": "Low",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "Sandworm"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.google.com/search?q=DDOS%20protection"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope CVE",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope CVE",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 6.033021039249354,
+            "severity": "High",
+            "likelihood": "High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "Cozy Bear"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.135.78"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.google.com/search?q=phishing%20campaigns"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb Space Telescope CVE",
+        "description": "Threat involving Threat 2 from James Webb Space Telescope CVE",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 4.209491269166864,
+            "severity": "Critical",
+            "likelihood": "Medium",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "LockBit"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope backdoor",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope backdoor",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 9.402863678435788,
+            "severity": "High",
+            "likelihood": "Medium",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "BlackCat"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.google.com/search?q=ransomware%20attacks"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope compromise",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope compromise",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 6.1772246344571675,
+            "severity": "Low",
+            "likelihood": "Low",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "BlackCat"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.170.239"
+            ],
+            "domains": [
+                "malicious205.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from James Webb Space Telescope compromise",
+        "description": "Threat involving Threat 4 from James Webb Space Telescope compromise",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 2.495433417322241,
+            "severity": "Medium",
+            "likelihood": "High",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "Conti"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f64760"
+            ]
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Webb Telescope attack",
+        "description": "Threat involving Threat 1 from Webb Telescope attack",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 1.188104159278997,
+            "severity": "High",
+            "likelihood": "Very High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "Lazarus Group"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious170.example.com"
+            ],
+            "hashes": [
+                "a1b2c3d4e5f65275"
+            ]
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from Webb Telescope attack",
+        "description": "Threat involving Threat 2 from Webb Telescope attack",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 9.841449614578432,
+            "severity": "Low",
+            "likelihood": "High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from Webb Telescope attack",
+        "description": "Threat involving Threat 4 from Webb Telescope attack",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 6.11768262092714,
+            "severity": "Critical",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious371.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.google.com/search?q=APT%20groups"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from James Webb exploit",
+        "description": "Threat involving Threat 3 from James Webb exploit",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 8.63984320507218,
+            "severity": "Critical",
+            "likelihood": "Medium",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "Sandworm"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.206.177"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 5 from James Webb exploit",
+        "description": "Threat involving Threat 5 from James Webb exploit",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 0.38678441792660423,
+            "severity": "Critical",
+            "likelihood": "Medium",
+            "impact": "Moderate"
+        },
+        "threat_actors": [
+            "APT29"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.75.22"
+            ],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f63119"
+            ]
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=ransomware%20attacks&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb breach",
+        "description": "Threat involving Threat 1 from James Webb breach",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 1.1165186842933088,
+            "severity": "Critical",
+            "likelihood": "Very High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "Sandworm"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious451.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=DDOS%20protection&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from James Webb breach",
+        "description": "Threat involving Threat 3 from James Webb breach",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 6.1868569342221615,
+            "severity": "Medium",
+            "likelihood": "High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=malware%20analysis&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from James Webb breach",
+        "description": "Threat involving Threat 4 from James Webb breach",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 2.5224755083189097,
+            "severity": "High",
+            "likelihood": "High",
+            "impact": "Moderate"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.178.1"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 5 from James Webb breach",
+        "description": "Threat involving Threat 5 from James Webb breach",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 8.151996949742008,
+            "severity": "High",
+            "likelihood": "Low",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "APT29"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.google.com/search?q=phishing%20campaigns"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb attack",
+        "description": "Threat involving Threat 1 from James Webb attack",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 4.840260759927064,
+            "severity": "Medium",
+            "likelihood": "Low",
+            "impact": "Minimal"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f64547"
+            ]
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb attack",
+        "description": "Threat involving Threat 2 from James Webb attack",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 6.927877588836107,
+            "severity": "Critical",
+            "likelihood": "High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb hack",
+        "description": "Threat involving Threat 1 from James Webb hack",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 0.9955160211366714,
+            "severity": "Medium",
+            "likelihood": "Medium",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "Cozy Bear"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f64906"
+            ]
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb malware",
+        "description": "Threat involving Threat 1 from James Webb malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 2.0993774684542115,
+            "severity": "Low",
+            "likelihood": "High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious879.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from James Webb phishing",
+        "description": "Threat involving Threat 4 from James Webb phishing",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 7.55359317223597,
+            "severity": "Medium",
+            "likelihood": "Medium",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "REvil"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb threat",
+        "description": "Threat involving Threat 1 from James Webb threat",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 6.672131312464945,
+            "severity": "Critical",
+            "likelihood": "High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "APT29"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb CVE",
+        "description": "Threat involving Threat 1 from James Webb CVE",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 6.200115543619857,
+            "severity": "High",
+            "likelihood": "Medium",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "LockBit"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f66092"
+            ]
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=APT%20groups&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from James Webb backdoor",
+        "description": "Threat involving Threat 3 from James Webb backdoor",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 9.988873188780405,
+            "severity": "Medium",
+            "likelihood": "High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f64177"
+            ]
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.google.com/search?q=DDOS%20protection"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb compromise",
+        "description": "Threat involving Threat 1 from James Webb compromise",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 0.4155097720270312,
+            "severity": "Medium",
+            "likelihood": "Low",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious821.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from NASA JWST malware breach",
+        "description": "Threat involving Threat 1 from NASA JWST malware breach",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 1.6830322745960207,
+            "severity": "High",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb vulnerability",
+        "description": "Threat involving Threat 1 from James Webb vulnerability",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 3.73364700522618,
+            "severity": "High",
+            "likelihood": "Low",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "BlackCat"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from James Webb vulnerability",
+        "description": "Threat involving Threat 3 from James Webb vulnerability",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 3.2293029214057545,
+            "severity": "Critical",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.227.7"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from James Webb zero-day",
+        "description": "Threat involving Threat 3 from James Webb zero-day",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 3.934368014675695,
+            "severity": "Medium",
+            "likelihood": "Medium",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "Cozy Bear"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 5 from James Webb zero-day",
+        "description": "Threat involving Threat 5 from James Webb zero-day",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 4.017134031538651,
+            "severity": "High",
+            "likelihood": "High",
+            "impact": "Significant"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.58.191"
+            ],
+            "domains": [
+                "malicious280.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from Ball Aerospace James Webb Telescope security vulnerability",
+        "description": "Threat involving Threat 2 from Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 6.503259016807014,
+            "severity": "High",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.243.66"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from Ball Aerospace James Webb Telescope security vulnerability",
+        "description": "Threat involving Threat 3 from Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 7.002566865883422,
+            "severity": "High",
+            "likelihood": "Medium",
+            "impact": "Significant"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": [
+                "a1b2c3d4e5f62366"
+            ]
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=cybersecurity%20threats&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 4 from Ball Aerospace James Webb Telescope security vulnerability",
+        "description": "Threat involving Threat 4 from Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 4.195537955520748,
+            "severity": "Medium",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 5 from Ball Aerospace James Webb Telescope security vulnerability",
+        "description": "Threat involving Threat 5 from Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 5.74758263865902,
+            "severity": "Critical",
+            "likelihood": "High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Northrop Grumman JWST cyber threat",
+        "description": "Threat involving Threat 1 from Northrop Grumman JWST cyber threat",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 1.769443927679243,
+            "severity": "Critical",
+            "likelihood": "Medium",
+            "impact": "Significant"
+        },
+        "threat_actors": [
+            "APT29"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=APT%20groups&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from Northrop Grumman JWST cyber threat",
+        "description": "Threat involving Threat 2 from Northrop Grumman JWST cyber threat",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 3.607858481847949,
+            "severity": "Critical",
+            "likelihood": "Low",
+            "impact": "Moderate"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.google.com/search?q=phishing%20campaigns"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from NASA cybersecurity breach James Webb Telescope",
+        "description": "Threat involving Threat 2 from NASA cybersecurity breach James Webb Telescope",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 3.4788308120642366,
+            "severity": "Critical",
+            "likelihood": "Medium",
+            "impact": "Significant"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.131.114"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.google.com/search?q=cybersecurity%20threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb Telescope Deep Space Network hack",
+        "description": "Threat involving Threat 2 from James Webb Telescope Deep Space Network hack",
+        "category": "phishing",
+        "risk_assessment": {
+            "score": 9.188088220573233,
+            "severity": "Critical",
+            "likelihood": "Low",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "BlackCat"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious812.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Block IPs",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 3 from James Webb Telescope Deep Space Network hack",
+        "description": "Threat involving Threat 3 from James Webb Telescope Deep Space Network hack",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 1.7127047917224647,
+            "severity": "Critical",
+            "likelihood": "Medium",
+            "impact": "Significant"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Update Systems",
+        "sources": [
+            "https://www.google.com/search?q=ransomware%20attacks"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Telescope hacking incident",
+        "description": "Threat involving Threat 1 from James Webb Telescope hacking incident",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 6.488482656768833,
+            "severity": "High",
+            "likelihood": "Low",
+            "impact": "Critical"
+        },
+        "threat_actors": [
+            "Sandworm"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious472.example.com"
+            ],
+            "hashes": [
+                "a1b2c3d4e5f63094"
+            ]
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Space Telescope vulnerability",
+        "description": "Threat involving Threat 1 from James Webb Space Telescope vulnerability",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 4.366424053504827,
+            "severity": "Medium",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.144.253"
+            ],
+            "domains": [],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb Space Telescope vulnerability",
+        "description": "Threat involving Threat 2 from James Webb Space Telescope vulnerability",
+        "category": "denial_of_service",
+        "risk_assessment": {
+            "score": 5.023756714002125,
+            "severity": "Medium",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.84.214"
+            ],
+            "domains": [
+                "malicious666.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=cybersecurity%20threats&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 2 from James Webb Space Telescope zero-day",
+        "description": "Threat involving Threat 2 from James Webb Space Telescope zero-day",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 9.686920719682588,
+            "severity": "Medium",
+            "likelihood": "Very High",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious921.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.google.com/search?q=phishing%20campaigns"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from James Webb Telescope phishing attack",
+        "description": "Threat involving Threat 1 from James Webb Telescope phishing attack",
+        "category": "data_leak",
+        "risk_assessment": {
+            "score": 2.8844863161724605,
+            "severity": "Low",
+            "likelihood": "Very High",
+            "impact": "Minimal"
+        },
+        "threat_actors": [
+            "Fancy Bear"
+        ],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [
+                "192.168.185.5"
+            ],
+            "domains": [
+                "malicious937.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "User Training",
+        "sources": [
+            "https://www.cisa.gov/topics/cyber-threats"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Threat 1 from Lockheed Martin JWST supply chain risk",
+        "description": "Threat involving Threat 1 from Lockheed Martin JWST supply chain risk",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 9.974825374841108,
+            "severity": "Medium",
+            "likelihood": "Medium",
+            "impact": "Critical"
+        },
+        "threat_actors": [],
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "indicators": {
+            "ip_addresses": [],
+            "domains": [
+                "malicious141.example.com"
+            ],
+            "hashes": []
+        },
+        "mitigation": "Remove Access",
+        "sources": [
+            "https://www.google.com/search?q=malware%20analysis"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    }
+]

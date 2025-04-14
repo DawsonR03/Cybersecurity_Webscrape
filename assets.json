@@ -1,0 +1,4058 @@
+[
+    {
+        "name": "Asset 1 from James Webb Space Telescope cyber attack",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope cyber attack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 6.154029788469069,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-6455",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=data%20center&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope cyber attack",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope cyber attack",
+        "category": "network",
+        "risk_assessment": {
+            "score": 7.211378758346051,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-6730",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=data%20center&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope cyber attack",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope cyber attack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 5.390614107930973,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-7228",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb Space Telescope cyber attack",
+        "description": "Asset related to Asset 4 from James Webb Space Telescope cyber attack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 6.4677201640511965,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-8272",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=telescopes+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from James Webb Space Telescope cyber attack",
+        "description": "Asset related to Asset 5 from James Webb Space Telescope cyber attack",
+        "category": "network",
+        "risk_assessment": {
+            "score": 8.332694760296448,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-6212",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope vulnerability",
+        "description": "Asset related to Asset 1 from Webb Telescope vulnerability",
+        "category": "network",
+        "risk_assessment": {
+            "score": 0.9605174462416511,
+            "severity": "Critical",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-7656",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope exploit",
+        "description": "Asset related to Asset 1 from Webb Telescope exploit",
+        "category": "network",
+        "risk_assessment": {
+            "score": 5.630267763707812,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-6699",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=data%20center+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope exploit",
+        "description": "Asset related to Asset 2 from Webb Telescope exploit",
+        "category": "application",
+        "risk_assessment": {
+            "score": 4.737852080424886,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-1764",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=database%20server+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from Webb Telescope exploit",
+        "description": "Asset related to Asset 3 from Webb Telescope exploit",
+        "category": "database",
+        "risk_assessment": {
+            "score": 8.406892166934686,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-1088",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from Webb Telescope exploit",
+        "description": "Asset related to Asset 4 from Webb Telescope exploit",
+        "category": "application",
+        "risk_assessment": {
+            "score": 6.060747261228037,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-6146",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope breach",
+        "description": "Asset related to Asset 1 from Webb Telescope breach",
+        "category": "network",
+        "risk_assessment": {
+            "score": 2.295504389746004,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-8933",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=data%20center&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope breach",
+        "description": "Asset related to Asset 2 from Webb Telescope breach",
+        "category": "network",
+        "risk_assessment": {
+            "score": 8.062627657119586,
+            "severity": "High",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-4067",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope hack",
+        "description": "Asset related to Asset 1 from Webb Telescope hack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 5.185816914316401,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-9858",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Primary Data Center",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope hack",
+        "description": "Asset related to Asset 2 from Webb Telescope hack",
+        "category": "system",
+        "risk_assessment": {
+            "score": 8.653623970101323,
+            "severity": "Low",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-3218",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=data%20center+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from Webb Telescope hack",
+        "description": "Asset related to Asset 3 from Webb Telescope hack",
+        "category": "system",
+        "risk_assessment": {
+            "score": 7.957879163549295,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-8723",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from Webb Telescope hack",
+        "description": "Asset related to Asset 4 from Webb Telescope hack",
+        "category": "network",
+        "risk_assessment": {
+            "score": 2.961111700248065,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-1540",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope malware",
+        "description": "Asset related to Asset 1 from Webb Telescope malware",
+        "category": "database",
+        "risk_assessment": {
+            "score": 4.624145610279555,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-5606",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=data%20center+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope malware",
+        "description": "Asset related to Asset 2 from Webb Telescope malware",
+        "category": "system",
+        "risk_assessment": {
+            "score": 9.27568254093092,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-1321",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope ransomware",
+        "description": "Asset related to Asset 1 from Webb Telescope ransomware",
+        "category": "network",
+        "risk_assessment": {
+            "score": 8.694215982330089,
+            "severity": "High",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-1896",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope ransomware",
+        "description": "Asset related to Asset 2 from Webb Telescope ransomware",
+        "category": "application",
+        "risk_assessment": {
+            "score": 7.125922925174736,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-4303",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from Webb Telescope ransomware",
+        "description": "Asset related to Asset 3 from Webb Telescope ransomware",
+        "category": "application",
+        "risk_assessment": {
+            "score": 1.8374191258119836,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-2335",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from Webb Telescope ransomware",
+        "description": "Asset related to Asset 4 from Webb Telescope ransomware",
+        "category": "network",
+        "risk_assessment": {
+            "score": 3.2043687547590136,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-8420",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope phishing",
+        "description": "Asset related to Asset 1 from Webb Telescope phishing",
+        "category": "database",
+        "risk_assessment": {
+            "score": 7.625199893757064,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-3333",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope phishing",
+        "description": "Asset related to Asset 2 from Webb Telescope phishing",
+        "category": "network",
+        "risk_assessment": {
+            "score": 0.6630181416706308,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-6148",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=data%20center+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope threat",
+        "description": "Asset related to Asset 1 from Webb Telescope threat",
+        "category": "network",
+        "risk_assessment": {
+            "score": 8.49933469833599,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-7367",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=database%20server+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope security",
+        "description": "Asset related to Asset 1 from Webb Telescope security",
+        "category": "network",
+        "risk_assessment": {
+            "score": 2.301625927605235,
+            "severity": "Low",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4573",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope CVE",
+        "description": "Asset related to Asset 1 from Webb Telescope CVE",
+        "category": "application",
+        "risk_assessment": {
+            "score": 1.5089529951795027,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-7702",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope CVE",
+        "description": "Asset related to Asset 2 from Webb Telescope CVE",
+        "category": "application",
+        "risk_assessment": {
+            "score": 2.7857057571349353,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-6972",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from Webb Telescope CVE",
+        "description": "Asset related to Asset 3 from Webb Telescope CVE",
+        "category": "network",
+        "risk_assessment": {
+            "score": 4.647605612391213,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-6069",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope zero-day",
+        "description": "Asset related to Asset 1 from Webb Telescope zero-day",
+        "category": "network",
+        "risk_assessment": {
+            "score": 9.797106773162934,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-9345",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope zero-day",
+        "description": "Asset related to Asset 2 from Webb Telescope zero-day",
+        "category": "database",
+        "risk_assessment": {
+            "score": 1.2997315247513528,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-5225",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope backdoor",
+        "description": "Asset related to Asset 1 from Webb Telescope backdoor",
+        "category": "system",
+        "risk_assessment": {
+            "score": 3.682860729346493,
+            "severity": "Low",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-7879",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope backdoor",
+        "description": "Asset related to Asset 2 from Webb Telescope backdoor",
+        "category": "application",
+        "risk_assessment": {
+            "score": 3.724535416549672,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-3075",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=satellite%20communication&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from Webb Telescope backdoor",
+        "description": "Asset related to Asset 3 from Webb Telescope backdoor",
+        "category": "system",
+        "risk_assessment": {
+            "score": 0.5453397393161649,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-3926",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "External",
+        "location": "Primary Data Center",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from Webb Telescope backdoor",
+        "description": "Asset related to Asset 4 from Webb Telescope backdoor",
+        "category": "system",
+        "risk_assessment": {
+            "score": 5.9728413303656405,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-9653",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope compromise",
+        "description": "Asset related to Asset 1 from Webb Telescope compromise",
+        "category": "application",
+        "risk_assessment": {
+            "score": 5.95161569899657,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-9281",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope compromise",
+        "description": "Asset related to Asset 2 from Webb Telescope compromise",
+        "category": "network",
+        "risk_assessment": {
+            "score": 8.705508555548228,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-8113",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from Webb Telescope compromise",
+        "description": "Asset related to Asset 3 from Webb Telescope compromise",
+        "category": "system",
+        "risk_assessment": {
+            "score": 5.052757090562553,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "Low"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-1141",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from Webb Telescope compromise",
+        "description": "Asset related to Asset 4 from Webb Telescope compromise",
+        "category": "network",
+        "risk_assessment": {
+            "score": 5.2471937697209645,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-4046",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=security%20hardware&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope risk",
+        "description": "Asset related to Asset 1 from Webb Telescope risk",
+        "category": "network",
+        "risk_assessment": {
+            "score": 4.922995865936116,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Low"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-5171",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Primary Data Center",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope risk",
+        "description": "Asset related to Asset 2 from Webb Telescope risk",
+        "category": "network",
+        "risk_assessment": {
+            "score": 5.440465007629793,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-4794",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from Webb Telescope risk",
+        "description": "Asset related to Asset 3 from Webb Telescope risk",
+        "category": "network",
+        "risk_assessment": {
+            "score": 4.397180273504547,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-8720",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "External",
+        "location": "Primary Data Center",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from Webb Telescope risk",
+        "description": "Asset related to Asset 4 from Webb Telescope risk",
+        "category": "application",
+        "risk_assessment": {
+            "score": 1.4822834164123222,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-2831",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from JWST zero-day vulnerability",
+        "description": "Asset related to Asset 1 from JWST zero-day vulnerability",
+        "category": "application",
+        "risk_assessment": {
+            "score": 1.7130383446306534,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-5491",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from JWST zero-day vulnerability",
+        "description": "Asset related to Asset 2 from JWST zero-day vulnerability",
+        "category": "network",
+        "risk_assessment": {
+            "score": 9.817828111091378,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-2388",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=data%20center&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from JWST zero-day vulnerability",
+        "description": "Asset related to Asset 3 from JWST zero-day vulnerability",
+        "category": "system",
+        "risk_assessment": {
+            "score": 3.9727971148824177,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-3925",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from JWST zero-day vulnerability",
+        "description": "Asset related to Asset 4 from JWST zero-day vulnerability",
+        "category": "database",
+        "risk_assessment": {
+            "score": 5.495273014505708,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-9207",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope exploit",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope exploit",
+        "category": "database",
+        "risk_assessment": {
+            "score": 7.603054450681008,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4378",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope exploit",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope exploit",
+        "category": "network",
+        "risk_assessment": {
+            "score": 3.4860753968528466,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-8093",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=network%20equipment&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope breach",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope breach",
+        "category": "network",
+        "risk_assessment": {
+            "score": 0.8997687661168731,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-2257",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope attack",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope attack",
+        "category": "application",
+        "risk_assessment": {
+            "score": 5.351316135092915,
+            "severity": "Low",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-2403",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope attack",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope attack",
+        "category": "network",
+        "risk_assessment": {
+            "score": 4.5767932345957005,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-8996",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=data%20center+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope attack",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope attack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 5.2780387575915775,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Low"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-7634",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope hack",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope hack",
+        "category": "system",
+        "risk_assessment": {
+            "score": 2.433574901919358,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-4328",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope hack",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope hack",
+        "category": "network",
+        "risk_assessment": {
+            "score": 9.134407910015732,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-1574",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope hack",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope hack",
+        "category": "network",
+        "risk_assessment": {
+            "score": 4.518074192671064,
+            "severity": "Critical",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-1247",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb Space Telescope hack",
+        "description": "Asset related to Asset 4 from James Webb Space Telescope hack",
+        "category": "network",
+        "risk_assessment": {
+            "score": 0.12016926875710342,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Low"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-8010",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "External",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=security%20hardware&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from James Webb Space Telescope hack",
+        "description": "Asset related to Asset 5 from James Webb Space Telescope hack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 8.439873805717601,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-1199",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope malware",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope malware",
+        "category": "network",
+        "risk_assessment": {
+            "score": 5.260337036133271,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-8122",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope malware",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope malware",
+        "category": "application",
+        "risk_assessment": {
+            "score": 2.3540897429866052,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4532",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=telescopes+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope malware",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope malware",
+        "category": "network",
+        "risk_assessment": {
+            "score": 6.371430200988559,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-9082",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=data%20center+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb Space Telescope malware",
+        "description": "Asset related to Asset 4 from James Webb Space Telescope malware",
+        "category": "system",
+        "risk_assessment": {
+            "score": 5.331496122029897,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-5698",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=data%20center&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from James Webb Space Telescope malware",
+        "description": "Asset related to Asset 5 from James Webb Space Telescope malware",
+        "category": "system",
+        "risk_assessment": {
+            "score": 1.3198284378562892,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4570",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope ransomware",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope ransomware",
+        "category": "network",
+        "risk_assessment": {
+            "score": 5.696389429400711,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-3942",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope ransomware",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope ransomware",
+        "category": "application",
+        "risk_assessment": {
+            "score": 0.3472340917136053,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-1649",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope ransomware",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope ransomware",
+        "category": "system",
+        "risk_assessment": {
+            "score": 3.0936937306437207,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-1938",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope phishing",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope phishing",
+        "category": "network",
+        "risk_assessment": {
+            "score": 5.388223874563398,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-1707",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope phishing",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope phishing",
+        "category": "database",
+        "risk_assessment": {
+            "score": 1.7563926951730262,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-9679",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope phishing",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope phishing",
+        "category": "application",
+        "risk_assessment": {
+            "score": 3.9181441930047134,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-6013",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=security%20hardware&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope threat",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope threat",
+        "category": "application",
+        "risk_assessment": {
+            "score": 0.978103598558872,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-6363",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope threat",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope threat",
+        "category": "network",
+        "risk_assessment": {
+            "score": 3.5403219833046338,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-8660",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope threat",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope threat",
+        "category": "network",
+        "risk_assessment": {
+            "score": 2.465148372578208,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-7636",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=security%20hardware&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb Space Telescope threat",
+        "description": "Asset related to Asset 4 from James Webb Space Telescope threat",
+        "category": "database",
+        "risk_assessment": {
+            "score": 7.91241619984476,
+            "severity": "Low",
+            "exposure": "Internal",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4194",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from James Webb Space Telescope threat",
+        "description": "Asset related to Asset 5 from James Webb Space Telescope threat",
+        "category": "application",
+        "risk_assessment": {
+            "score": 3.61872861932848,
+            "severity": "High",
+            "exposure": "Both",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-4547",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope security",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope security",
+        "category": "application",
+        "risk_assessment": {
+            "score": 0.7894134913433746,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "Low"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-6705",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope security",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope security",
+        "category": "database",
+        "risk_assessment": {
+            "score": 9.797796490694054,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Low"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-6804",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope security",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope security",
+        "category": "application",
+        "risk_assessment": {
+            "score": 2.3487809886726896,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-8464",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=telescopes+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb Space Telescope security",
+        "description": "Asset related to Asset 4 from James Webb Space Telescope security",
+        "category": "network",
+        "risk_assessment": {
+            "score": 3.5049847456199106,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-1577",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope CVE",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope CVE",
+        "category": "application",
+        "risk_assessment": {
+            "score": 9.527057953545688,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-3581",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope CVE",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope CVE",
+        "category": "application",
+        "risk_assessment": {
+            "score": 9.983698108971954,
+            "severity": "Critical",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-3342",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope backdoor",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope backdoor",
+        "category": "application",
+        "risk_assessment": {
+            "score": 9.987986458231394,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-4391",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope backdoor",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope backdoor",
+        "category": "application",
+        "risk_assessment": {
+            "score": 9.104817915997339,
+            "severity": "Critical",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-9394",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=network%20equipment&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope backdoor",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope backdoor",
+        "category": "system",
+        "risk_assessment": {
+            "score": 0.5714308625069656,
+            "severity": "Low",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-7513",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=database%20server+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb Space Telescope backdoor",
+        "description": "Asset related to Asset 4 from James Webb Space Telescope backdoor",
+        "category": "database",
+        "risk_assessment": {
+            "score": 9.3048359826954,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-7910",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=security%20hardware&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from James Webb Space Telescope backdoor",
+        "description": "Asset related to Asset 5 from James Webb Space Telescope backdoor",
+        "category": "system",
+        "risk_assessment": {
+            "score": 9.640546238996233,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-7037",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "External",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope compromise",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope compromise",
+        "category": "network",
+        "risk_assessment": {
+            "score": 4.618373963537809,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-8077",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=database%20server+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope compromise",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope compromise",
+        "category": "system",
+        "risk_assessment": {
+            "score": 8.234262012946239,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-5360",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope compromise",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope compromise",
+        "category": "application",
+        "risk_assessment": {
+            "score": 1.9577168724261163,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-3064",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb Space Telescope compromise",
+        "description": "Asset related to Asset 4 from James Webb Space Telescope compromise",
+        "category": "application",
+        "risk_assessment": {
+            "score": 3.9418377753960674,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-1717",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from James Webb Space Telescope compromise",
+        "description": "Asset related to Asset 5 from James Webb Space Telescope compromise",
+        "category": "network",
+        "risk_assessment": {
+            "score": 8.156190717572558,
+            "severity": "Low",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-7992",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=security%20hardware&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope risk",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope risk",
+        "category": "application",
+        "risk_assessment": {
+            "score": 3.2238225957357045,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4561",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=database%20server+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Webb Telescope attack",
+        "description": "Asset related to Asset 1 from Webb Telescope attack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 9.486322442112687,
+            "severity": "High",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-3199",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Webb Telescope attack",
+        "description": "Asset related to Asset 2 from Webb Telescope attack",
+        "category": "system",
+        "risk_assessment": {
+            "score": 6.3593973859887765,
+            "severity": "Low",
+            "exposure": "Internal",
+            "criticality": "Low"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-7154",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from Webb Telescope attack",
+        "description": "Asset related to Asset 3 from Webb Telescope attack",
+        "category": "network",
+        "risk_assessment": {
+            "score": 3.332608760223358,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-4912",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=data%20center+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from Webb Telescope attack",
+        "description": "Asset related to Asset 4 from Webb Telescope attack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 7.653767720768817,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-1699",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from Webb Telescope attack",
+        "description": "Asset related to Asset 5 from Webb Telescope attack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 2.4767521894574083,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-5650",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=data%20center&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb exploit",
+        "description": "Asset related to Asset 1 from James Webb exploit",
+        "category": "network",
+        "risk_assessment": {
+            "score": 1.0285421628510951,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4978",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb exploit",
+        "description": "Asset related to Asset 2 from James Webb exploit",
+        "category": "application",
+        "risk_assessment": {
+            "score": 5.247717768402026,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4231",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb exploit",
+        "description": "Asset related to Asset 3 from James Webb exploit",
+        "category": "application",
+        "risk_assessment": {
+            "score": 3.3085815578383544,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-2064",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb exploit",
+        "description": "Asset related to Asset 4 from James Webb exploit",
+        "category": "application",
+        "risk_assessment": {
+            "score": 1.8240419686610518,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-2106",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from James Webb exploit",
+        "description": "Asset related to Asset 5 from James Webb exploit",
+        "category": "network",
+        "risk_assessment": {
+            "score": 3.8307680392390178,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-1968",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb breach",
+        "description": "Asset related to Asset 1 from James Webb breach",
+        "category": "network",
+        "risk_assessment": {
+            "score": 4.870646819945299,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-2012",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=security%20hardware&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb breach",
+        "description": "Asset related to Asset 2 from James Webb breach",
+        "category": "application",
+        "risk_assessment": {
+            "score": 4.038199402283657,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-5785",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb breach",
+        "description": "Asset related to Asset 3 from James Webb breach",
+        "category": "application",
+        "risk_assessment": {
+            "score": 1.9638268005233712,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Low"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-4307",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb breach",
+        "description": "Asset related to Asset 4 from James Webb breach",
+        "category": "network",
+        "risk_assessment": {
+            "score": 6.411166305299379,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-8920",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=data%20center&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from James Webb breach",
+        "description": "Asset related to Asset 5 from James Webb breach",
+        "category": "application",
+        "risk_assessment": {
+            "score": 6.450311822300219,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-2369",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb attack",
+        "description": "Asset related to Asset 1 from James Webb attack",
+        "category": "network",
+        "risk_assessment": {
+            "score": 3.5681777712037133,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-9456",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb attack",
+        "description": "Asset related to Asset 2 from James Webb attack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 8.096917919472903,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-3322",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb hack",
+        "description": "Asset related to Asset 1 from James Webb hack",
+        "category": "application",
+        "risk_assessment": {
+            "score": 4.125676237578061,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-1951",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb hack",
+        "description": "Asset related to Asset 2 from James Webb hack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 2.489196868198283,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-5087",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb hack",
+        "description": "Asset related to Asset 3 from James Webb hack",
+        "category": "system",
+        "risk_assessment": {
+            "score": 3.4184891268651043,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-6243",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=data%20center&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb malware",
+        "description": "Asset related to Asset 1 from James Webb malware",
+        "category": "database",
+        "risk_assessment": {
+            "score": 7.48038612008695,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-1302",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=satellite%20communication&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb malware",
+        "description": "Asset related to Asset 2 from James Webb malware",
+        "category": "network",
+        "risk_assessment": {
+            "score": 6.4521082708243345,
+            "severity": "Critical",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-1856",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb malware",
+        "description": "Asset related to Asset 3 from James Webb malware",
+        "category": "database",
+        "risk_assessment": {
+            "score": 2.4847758046166533,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-2665",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb malware",
+        "description": "Asset related to Asset 4 from James Webb malware",
+        "category": "database",
+        "risk_assessment": {
+            "score": 1.752055982569278,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-7572",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from James Webb malware",
+        "description": "Asset related to Asset 5 from James Webb malware",
+        "category": "application",
+        "risk_assessment": {
+            "score": 2.228265581667628,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-8903",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb ransomware",
+        "description": "Asset related to Asset 1 from James Webb ransomware",
+        "category": "application",
+        "risk_assessment": {
+            "score": 1.1178710035405623,
+            "severity": "High",
+            "exposure": "Both",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-8310",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb phishing",
+        "description": "Asset related to Asset 1 from James Webb phishing",
+        "category": "network",
+        "risk_assessment": {
+            "score": 9.970828689747787,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-4258",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=telescopes+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb phishing",
+        "description": "Asset related to Asset 2 from James Webb phishing",
+        "category": "network",
+        "risk_assessment": {
+            "score": 7.259757317763668,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-3393",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb phishing",
+        "description": "Asset related to Asset 3 from James Webb phishing",
+        "category": "database",
+        "risk_assessment": {
+            "score": 8.876624734697682,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-6945",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb phishing",
+        "description": "Asset related to Asset 4 from James Webb phishing",
+        "category": "system",
+        "risk_assessment": {
+            "score": 2.1186797355669644,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-4446",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=database%20server+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb threat",
+        "description": "Asset related to Asset 1 from James Webb threat",
+        "category": "application",
+        "risk_assessment": {
+            "score": 7.954711026157807,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-1035",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb security",
+        "description": "Asset related to Asset 1 from James Webb security",
+        "category": "network",
+        "risk_assessment": {
+            "score": 6.810711192846838,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-7991",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=satellite%20communication&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb CVE",
+        "description": "Asset related to Asset 1 from James Webb CVE",
+        "category": "system",
+        "risk_assessment": {
+            "score": 8.355536994626265,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-5420",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb CVE",
+        "description": "Asset related to Asset 2 from James Webb CVE",
+        "category": "network",
+        "risk_assessment": {
+            "score": 5.8248511826387634,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-6900",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb CVE",
+        "description": "Asset related to Asset 3 from James Webb CVE",
+        "category": "network",
+        "risk_assessment": {
+            "score": 2.7610480037050573,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Low"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-7449",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb backdoor",
+        "description": "Asset related to Asset 1 from James Webb backdoor",
+        "category": "system",
+        "risk_assessment": {
+            "score": 7.900991709440947,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-1215",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=network%20equipment&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb backdoor",
+        "description": "Asset related to Asset 2 from James Webb backdoor",
+        "category": "database",
+        "risk_assessment": {
+            "score": 6.459345856946699,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Low"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-5161",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb backdoor",
+        "description": "Asset related to Asset 3 from James Webb backdoor",
+        "category": "system",
+        "risk_assessment": {
+            "score": 7.042757647983377,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-4572",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb compromise",
+        "description": "Asset related to Asset 1 from James Webb compromise",
+        "category": "application",
+        "risk_assessment": {
+            "score": 2.2405275118095003,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-5977",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb risk",
+        "description": "Asset related to Asset 1 from James Webb risk",
+        "category": "system",
+        "risk_assessment": {
+            "score": 5.153591870315446,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-9982",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb risk",
+        "description": "Asset related to Asset 2 from James Webb risk",
+        "category": "application",
+        "risk_assessment": {
+            "score": 9.669428872030373,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-5302",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=satellite%20communication&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from NASA JWST malware breach",
+        "description": "Asset related to Asset 1 from NASA JWST malware breach",
+        "category": "database",
+        "risk_assessment": {
+            "score": 6.741490939183453,
+            "severity": "High",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-5058",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from NASA JWST malware breach",
+        "description": "Asset related to Asset 2 from NASA JWST malware breach",
+        "category": "database",
+        "risk_assessment": {
+            "score": 6.636798483243109,
+            "severity": "Critical",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-9258",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=telescopes+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from NASA JWST malware breach",
+        "description": "Asset related to Asset 3 from NASA JWST malware breach",
+        "category": "network",
+        "risk_assessment": {
+            "score": 0.8360758590527263,
+            "severity": "Low",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-1811",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb vulnerability",
+        "description": "Asset related to Asset 1 from James Webb vulnerability",
+        "category": "application",
+        "risk_assessment": {
+            "score": 1.406905910161667,
+            "severity": "High",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-2640",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb vulnerability",
+        "description": "Asset related to Asset 2 from James Webb vulnerability",
+        "category": "network",
+        "risk_assessment": {
+            "score": 9.71326458458509,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-9970",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb vulnerability",
+        "description": "Asset related to Asset 3 from James Webb vulnerability",
+        "category": "network",
+        "risk_assessment": {
+            "score": 2.8526370524012714,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-2054",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb zero-day",
+        "description": "Asset related to Asset 1 from James Webb zero-day",
+        "category": "network",
+        "risk_assessment": {
+            "score": 4.705297247549303,
+            "severity": "Low",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-3062",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=satellite%20communication&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb zero-day",
+        "description": "Asset related to Asset 2 from James Webb zero-day",
+        "category": "system",
+        "risk_assessment": {
+            "score": 5.035686203029825,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-1601",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Primary Data Center",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=telescopes+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb zero-day",
+        "description": "Asset related to Asset 3 from James Webb zero-day",
+        "category": "application",
+        "risk_assessment": {
+            "score": 3.22605866981501,
+            "severity": "Medium",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-2734",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb zero-day",
+        "description": "Asset related to Asset 4 from James Webb zero-day",
+        "category": "system",
+        "risk_assessment": {
+            "score": 5.589133245867396,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-4797",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from James Webb zero-day",
+        "description": "Asset related to Asset 5 from James Webb zero-day",
+        "category": "database",
+        "risk_assessment": {
+            "score": 6.34027202468905,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-6208",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=database%20server"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Ball Aerospace James Webb Telescope security vulnerability",
+        "description": "Asset related to Asset 1 from Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "system",
+        "risk_assessment": {
+            "score": 6.955299477696777,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Low"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-9664",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=security%20hardware&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Ball Aerospace James Webb Telescope security vulnerability",
+        "description": "Asset related to Asset 2 from Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "database",
+        "risk_assessment": {
+            "score": 7.714416579911086,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4475",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from Ball Aerospace James Webb Telescope security vulnerability",
+        "description": "Asset related to Asset 3 from Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "network",
+        "risk_assessment": {
+            "score": 2.2811778316903077,
+            "severity": "High",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-4146",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from Ball Aerospace James Webb Telescope security vulnerability",
+        "description": "Asset related to Asset 4 from Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "network",
+        "risk_assessment": {
+            "score": 0.551244556174578,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-8656",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from Ball Aerospace James Webb Telescope security vulnerability",
+        "description": "Asset related to Asset 5 from Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "network",
+        "risk_assessment": {
+            "score": 6.229886042458296,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-5666",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=security%20hardware&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Northrop Grumman JWST cyber threat",
+        "description": "Asset related to Asset 1 from Northrop Grumman JWST cyber threat",
+        "category": "database",
+        "risk_assessment": {
+            "score": 3.8469907699651853,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-1544",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=satellite%20communication&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Northrop Grumman JWST cyber threat",
+        "description": "Asset related to Asset 2 from Northrop Grumman JWST cyber threat",
+        "category": "network",
+        "risk_assessment": {
+            "score": 9.587858017849399,
+            "severity": "Critical",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-9772",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from NASA cybersecurity breach James Webb Telescope",
+        "description": "Asset related to Asset 1 from NASA cybersecurity breach James Webb Telescope",
+        "category": "application",
+        "risk_assessment": {
+            "score": 5.724510997874081,
+            "severity": "High",
+            "exposure": "Both",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-1377",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from NASA cybersecurity breach James Webb Telescope",
+        "description": "Asset related to Asset 2 from NASA cybersecurity breach James Webb Telescope",
+        "category": "application",
+        "risk_assessment": {
+            "score": 9.262463531042679,
+            "severity": "Critical",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4480",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from JWST communications network exploit",
+        "description": "Asset related to Asset 1 from JWST communications network exploit",
+        "category": "network",
+        "risk_assessment": {
+            "score": 5.344938400160648,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Low"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-8206",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Telescope Deep Space Network hack",
+        "description": "Asset related to Asset 1 from James Webb Telescope Deep Space Network hack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 7.977772218767502,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-9209",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Telescope Deep Space Network hack",
+        "description": "Asset related to Asset 2 from James Webb Telescope Deep Space Network hack",
+        "category": "system",
+        "risk_assessment": {
+            "score": 9.174465686639119,
+            "severity": "Critical",
+            "exposure": "External",
+            "criticality": "Low"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-8298",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=telescopes+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Telescope Deep Space Network hack",
+        "description": "Asset related to Asset 3 from James Webb Telescope Deep Space Network hack",
+        "category": "database",
+        "risk_assessment": {
+            "score": 1.859583804306249,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-5687",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Secondary Site",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=network%20equipment+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from James Webb Telescope Deep Space Network hack",
+        "description": "Asset related to Asset 4 from James Webb Telescope Deep Space Network hack",
+        "category": "application",
+        "risk_assessment": {
+            "score": 9.418725186156369,
+            "severity": "High",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-7361",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "Internal",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=security%20hardware"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Telescope hacking incident",
+        "description": "Asset related to Asset 1 from James Webb Telescope hacking incident",
+        "category": "database",
+        "risk_assessment": {
+            "score": 1.177089523195291,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-5565",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://www.google.com/search?q=data%20center"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope vulnerability",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope vulnerability",
+        "category": "system",
+        "risk_assessment": {
+            "score": 1.202478952504211,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Critical"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-4538",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=database%20server&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope vulnerability",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope vulnerability",
+        "category": "database",
+        "risk_assessment": {
+            "score": 4.474270596125882,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-6215",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Operations",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=telescopes&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from James Webb Space Telescope vulnerability",
+        "description": "Asset related to Asset 3 from James Webb Space Telescope vulnerability",
+        "category": "database",
+        "risk_assessment": {
+            "score": 7.813932189301493,
+            "severity": "Critical",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-9017",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Space Telescope zero-day",
+        "description": "Asset related to Asset 1 from James Webb Space Telescope zero-day",
+        "category": "network",
+        "risk_assessment": {
+            "score": 3.5233305497098235,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "Low"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-3384",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Secondary Site",
+        "responsible_team": "Development",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=data%20center&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from James Webb Space Telescope zero-day",
+        "description": "Asset related to Asset 2 from James Webb Space Telescope zero-day",
+        "category": "database",
+        "risk_assessment": {
+            "score": 8.287608147560787,
+            "severity": "Medium",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-4472",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=data%20center+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from James Webb Telescope phishing attack",
+        "description": "Asset related to Asset 1 from James Webb Telescope phishing attack",
+        "category": "system",
+        "risk_assessment": {
+            "score": 8.793918360329876,
+            "severity": "Low",
+            "exposure": "External",
+            "criticality": "Low"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-2065",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=satellite%20communication+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 1 from Lockheed Martin JWST supply chain risk",
+        "description": "Asset related to Asset 1 from Lockheed Martin JWST supply chain risk",
+        "category": "application",
+        "risk_assessment": {
+            "score": 7.874074095567028,
+            "severity": "Medium",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Cybersecurity Inc",
+        "model": "Model-1017",
+        "vulnerabilities": [
+            "SIMULATED-1"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Special:Search?search=network%20equipment&go=Go"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 2 from Lockheed Martin JWST supply chain risk",
+        "description": "Asset related to Asset 2 from Lockheed Martin JWST supply chain risk",
+        "category": "database",
+        "risk_assessment": {
+            "score": 8.055137522217793,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "High"
+        },
+        "manufacturer": "Generic Corp",
+        "model": "Model-2988",
+        "vulnerabilities": [
+            "SIMULATED-2"
+        ],
+        "exposure": "External",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Security",
+        "sources": [
+            "https://www.google.com/search?q=telescopes+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 3 from Lockheed Martin JWST supply chain risk",
+        "description": "Asset related to Asset 3 from Lockheed Martin JWST supply chain risk",
+        "category": "database",
+        "risk_assessment": {
+            "score": 2.7466277853660994,
+            "severity": "Critical",
+            "exposure": "Internal",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-3633",
+        "vulnerabilities": [
+            "SIMULATED-3"
+        ],
+        "exposure": "Internal",
+        "location": "Cloud Infrastructure",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 4 from Lockheed Martin JWST supply chain risk",
+        "description": "Asset related to Asset 4 from Lockheed Martin JWST supply chain risk",
+        "category": "application",
+        "risk_assessment": {
+            "score": 0.7370499493169488,
+            "severity": "High",
+            "exposure": "External",
+            "criticality": "Medium"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-8944",
+        "vulnerabilities": [
+            "SIMULATED-4"
+        ],
+        "exposure": "External",
+        "location": "Secondary Site",
+        "responsible_team": "Infrastructure",
+        "sources": [
+            "https://www.google.com/search?q=data%20center+security"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    },
+    {
+        "name": "Asset 5 from Lockheed Martin JWST supply chain risk",
+        "description": "Asset related to Asset 5 from Lockheed Martin JWST supply chain risk",
+        "category": "system",
+        "risk_assessment": {
+            "score": 8.50921491598737,
+            "severity": "Low",
+            "exposure": "Both",
+            "criticality": "High"
+        },
+        "manufacturer": "Tech Industries",
+        "model": "Model-8647",
+        "vulnerabilities": [
+            "SIMULATED-5"
+        ],
+        "exposure": "Both",
+        "location": "Primary Data Center",
+        "responsible_team": "Development",
+        "sources": [
+            "https://www.google.com/search?q=telescopes"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "last_updated": "2025-04-14T16:50:25Z"
+    }
+]

@@ -1,0 +1,4724 @@
+[
+    {
+        "name": "CVE-2023-28771: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope cyber attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 5.067688130127004,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-12",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope cyber attack"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope cyber attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.522137061876176,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-31",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope cyber attack"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope cyber attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.87175834978476,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-23",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope cyber attack"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope cyber attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.70860837228677,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-05",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope cyber attack"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope cyber attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.57010043333498,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-06-17",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope cyber attack"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.696227711713014,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-18",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope vulnerability"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.237024480525717,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-09-07",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope exploit"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.131981604994669,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-07-23",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope exploit"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 5.920101289551197,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-05-18",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope exploit"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.444587832053551,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-05",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope exploit"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope breach",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.8980954939547,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-08-10",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope breach"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope breach",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.3284309917729145,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-10-11",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope breach"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.6495328583051887,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-07-05",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope hack"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.743146113810334,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-22",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope hack"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.231654820235743,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-25",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope hack"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.22315968675748807,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-11",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope hack"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 9.0156256675314,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-02",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope malware"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 2.3250024468186274,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-03",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope malware"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope ransomware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 1.5030344754129132,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-15",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope ransomware"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope ransomware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 9.999080502576835,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-06-17",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope ransomware"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope ransomware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 6.231516383760159,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-04",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope ransomware"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope ransomware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 0.44846072206207166,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-14",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope ransomware"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope phishing",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.4737709459726918,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-06-24",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope phishing"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope phishing",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.409168911127975,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-24",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope phishing"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope threat",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.568725132417417,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-17",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope threat"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope security",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.2822308322933136,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-10-10",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope security"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope CVE",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.8294734286274617,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-28",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope CVE"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope CVE",
+        "category": "security",
+        "risk_assessment": {
+            "score": 5.728423484478049,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-05-16",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope CVE"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope CVE",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.512947033394516,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-07-08",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope CVE"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope zero-day",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.341212499548968,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-09-12",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope zero-day"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope zero-day",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.092642945135675,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-06",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope zero-day"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.3629681648370167,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-02",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope backdoor"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.8563603359496375,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-08",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope backdoor"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.480707201180163,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-11",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope backdoor"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.6647547554970785,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-13",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope backdoor"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope compromise",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.945172097479371,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-08",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope compromise"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope compromise",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.310545683795466,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-06-15",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope compromise"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope compromise",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.751254505669575,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-07-29",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope compromise"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope compromise",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.243236507883228,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-07-29",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope compromise"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope risk",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.1607030040226105,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-05-22",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope risk"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope risk",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.625756871530253,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-06-09",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope risk"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope risk",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.782965745998117,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-23",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope risk"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope risk",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.3437883767925602,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-04",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope risk"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: JWST zero-day vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.539009074748758,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-10-06",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "JWST zero-day vulnerability"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: JWST zero-day vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.8821055863579303,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-22",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "JWST zero-day vulnerability"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: JWST zero-day vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.641082101812298,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-13",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "JWST zero-day vulnerability"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: JWST zero-day vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.648738731231573,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-25",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "JWST zero-day vulnerability"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 5.353751295034267,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-17",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope exploit"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.6286586290879485,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-09-21",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope exploit"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope breach",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.29368283712893,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-19",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope breach"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 5.104688618713584,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-15",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope attack"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.9182037799601186,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-28",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope attack"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.94190526328503,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-10",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope attack"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.448122658529861,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-08-03",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope hack"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.3463643547272226,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-14",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope hack"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.970453327082927,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-21",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope hack"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.794209342759952,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-05-30",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope hack"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.204682168976031,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-05-29",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope hack"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 1.706047277842535,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-06-03",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope malware"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 1.6260813872641695,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-21",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope malware"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 2.5724303488447884,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-10-07",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope malware"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 0.418062032537059,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-28",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope malware"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 9.836614154200133,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-07-31",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope malware"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope ransomware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 6.268250361482235,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-09-19",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope ransomware"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope ransomware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 4.009621861493907,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-06",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope ransomware"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope ransomware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 0.8460760627268297,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-25",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope ransomware"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope phishing",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.347287421831572,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-06-20",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope phishing"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope phishing",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.040086223835201,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-02",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope phishing"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope phishing",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.2853165951559,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-20",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope phishing"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope threat",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.572013580016532,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-23",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope threat"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope threat",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.432156636128684,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-06-03",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope threat"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope threat",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.770139398269417,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-08-12",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope threat"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope threat",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.525541082926164,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-07",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope threat"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope threat",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.819375749860678,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-09-27",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope threat"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope security",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.962623430566551,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-03",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope security"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope security",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.0882717202625423,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-10-06",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope security"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope security",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.0018015509827107,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-10-08",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope security"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope security",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.44214005537217,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-26",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope security"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope CVE",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.1740578061258455,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-07-24",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope CVE"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope CVE",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.144540574225763,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-01",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope CVE"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.897957432102774,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-06-13",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope backdoor"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 5.244050996065895,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-24",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope backdoor"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.7484568468359645,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-09-12",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope backdoor"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.9913123389224032,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-29",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope backdoor"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.9217448122032956,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-11",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope backdoor"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope compromise",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.281717885007525,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-12",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope compromise"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope compromise",
+        "category": "security",
+        "risk_assessment": {
+            "score": 5.359379620388373,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-02",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope compromise"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope compromise",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.0078981018604694,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-05-25",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope compromise"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope compromise",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.90963072766637,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-05",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope compromise"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope compromise",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.189910181364384,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-09-18",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope compromise"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope risk",
+        "category": "security",
+        "risk_assessment": {
+            "score": 5.307646400422983,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-10-10",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope risk"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.910183068674785,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-09-03",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope attack"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.3546287169063165,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-05",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope attack"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.06990194191305,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-15",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope attack"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.966850541580195,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-07-29",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope attack"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: Webb Telescope attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.3103284270219255,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-22",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Webb Telescope attack"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 5.414975434571781,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-16",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb exploit"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.396273246176086,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-26",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb exploit"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.681118043296335,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-22",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb exploit"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.349179357340345,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-07-18",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb exploit"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb exploit",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.906044595024922,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-28",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb exploit"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb breach",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.4350386857728816,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-18",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb breach"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb breach",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.7498772749381853,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-06-05",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb breach"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb breach",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.4028923165168137,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-08-12",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb breach"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb breach",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.145483278743137,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-22",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb breach"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb breach",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.194087527179172,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-07-20",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb breach"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.39263202938801,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-08-25",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb attack"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.443617331017586,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-09-25",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb attack"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.7738461169176842,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-02",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb hack"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.362567823605735,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-03",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb hack"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb hack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.4683033941003196,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-03",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb hack"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 7.432591379134305,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-12",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb malware"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 5.597522807573112,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-06-22",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb malware"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 3.4717351524279105,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-29",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb malware"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 0.3875075922747776,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-05-26",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb malware"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb malware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 3.346935150769055,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-18",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb malware"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb ransomware",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 8.793386409736225,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-30",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb ransomware"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb phishing",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.4903306401570942,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-08-23",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb phishing"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb phishing",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.2381365113738765,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-29",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb phishing"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb phishing",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.4616493199525555,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-28",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb phishing"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb phishing",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.39220925578568977,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-28",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb phishing"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb threat",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.500803475708805,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-22",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb threat"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb security",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.174378258264832,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-14",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb security"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb CVE",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.8416735617563853,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-12",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb CVE"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb CVE",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.431413500225105,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-21",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb CVE"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb CVE",
+        "category": "security",
+        "risk_assessment": {
+            "score": 5.640697982524985,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-07-09",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb CVE"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.5614615393727505,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-06-15",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb backdoor"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.640127911238366,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-06",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb backdoor"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb backdoor",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.8440758738483046,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-13",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb backdoor"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb compromise",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.466943045675584,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-12",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb compromise"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb risk",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.234783614443428,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-16",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb risk"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb risk",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.034928784949772,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-22",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb risk"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: NASA JWST malware breach",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 9.239023203071547,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-24",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "NASA JWST malware breach"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: NASA JWST malware breach",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 2.8752783443405265,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-25",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "NASA JWST malware breach"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: NASA JWST malware breach",
+        "category": "malware",
+        "risk_assessment": {
+            "score": 8.91616243120507,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-08-22",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "NASA JWST malware breach"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.116434284552039,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-27",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb vulnerability"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.945812344174264,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-07",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb vulnerability"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.81038327609721,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-28",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb vulnerability"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb zero-day",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.881684278597759,
+            "severity": "Low",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-06-18",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb zero-day"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb zero-day",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.33523888707411,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-07-27",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb zero-day"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb zero-day",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.278962130190406,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-08-18",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb zero-day"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb zero-day",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.931682559713294,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-21",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb zero-day"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb zero-day",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.1674409497167613,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-19",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb zero-day"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 6.194262717622377,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-07-01",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Ball Aerospace James Webb Telescope security vulnerability"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.9744278253781773,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-05-26",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Ball Aerospace James Webb Telescope security vulnerability"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 2.1667727327059936,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-05",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Ball Aerospace James Webb Telescope security vulnerability"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.5088432907602923,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-13",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Ball Aerospace James Webb Telescope security vulnerability"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: Ball Aerospace James Webb Telescope security vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.5131043611800441,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-05-18",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Ball Aerospace James Webb Telescope security vulnerability"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Northrop Grumman JWST cyber threat",
+        "category": "security",
+        "risk_assessment": {
+            "score": 3.0725321340422593,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-04",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Northrop Grumman JWST cyber threat"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Northrop Grumman JWST cyber threat",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.446156360933723,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-08-30",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Northrop Grumman JWST cyber threat"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: NASA cybersecurity breach James Webb Telescope",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.389523853251834,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-10-07",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "NASA cybersecurity breach James Webb Telescope"
+    },
+    {
+        "name": "CVE-2023-32315: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: NASA cybersecurity breach James Webb Telescope",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.4086850525157852,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-27",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-32315"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "NASA cybersecurity breach James Webb Telescope"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: JWST communications network exploit",
+        "category": "network_security",
+        "risk_assessment": {
+            "score": 5.333199207396739,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-07-20",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "JWST communications network exploit"
+    },
+    {
+        "name": "CVE-2023-21036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Telescope Deep Space Network hack",
+        "category": "network_security",
+        "risk_assessment": {
+            "score": 2.1400271319687483,
+            "severity": "Low",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-20",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-21036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Telescope Deep Space Network hack"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Telescope Deep Space Network hack",
+        "category": "network_security",
+        "risk_assessment": {
+            "score": 6.696669458025893,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-05-26",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Telescope Deep Space Network hack"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Telescope Deep Space Network hack",
+        "category": "network_security",
+        "risk_assessment": {
+            "score": 9.05250170236158,
+            "severity": "Critical",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-26",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Telescope Deep Space Network hack"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Telescope Deep Space Network hack",
+        "category": "network_security",
+        "risk_assessment": {
+            "score": 1.7488033634629385,
+            "severity": "High",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-08-30",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Telescope Deep Space Network hack"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Telescope hacking incident",
+        "category": "security",
+        "risk_assessment": {
+            "score": 9.450301000262428,
+            "severity": "High",
+            "exploitability": "Easy",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-09-19",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Telescope hacking incident"
+    },
+    {
+        "name": "CVE-2023-29360: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 7.239863278308501,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-10-09",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-29360"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope vulnerability"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 0.6435748138321064,
+            "severity": "Medium",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-07-01",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope vulnerability"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope vulnerability",
+        "category": "security",
+        "risk_assessment": {
+            "score": 1.5626863507048951,
+            "severity": "Critical",
+            "exploitability": "Difficult",
+            "impact": "Critical"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-07-03",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope vulnerability"
+    },
+    {
+        "name": "CVE-2023-36036: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope zero-day",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.46765714630405,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-07-26",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-36036"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope zero-day"
+    },
+    {
+        "name": "CVE-2023-20593: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Space Telescope zero-day",
+        "category": "security",
+        "risk_assessment": {
+            "score": 4.807544962373069,
+            "severity": "Medium",
+            "exploitability": "Difficult",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-09-15",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-20593"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Space Telescope zero-day"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: James Webb Telescope phishing attack",
+        "category": "security",
+        "risk_assessment": {
+            "score": 8.943066452045809,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Minimal"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Yes",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-29",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "James Webb Telescope phishing attack"
+    },
+    {
+        "name": "CVE-2023-3456: SIMULATED-1",
+        "description": "This is a simulated vulnerability for testing with keyword: Lockheed Martin JWST supply chain risk",
+        "category": "supply_chain",
+        "risk_assessment": {
+            "score": 1.9503790549341349,
+            "severity": "Medium",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Cybersecurity Inc Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Cybersecurity Inc"
+        ],
+        "due_date": "2025-05-31",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-3456"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Lockheed Martin JWST supply chain risk"
+    },
+    {
+        "name": "CVE-2021-44228: SIMULATED-2",
+        "description": "This is a simulated vulnerability for testing with keyword: Lockheed Martin JWST supply chain risk",
+        "category": "supply_chain",
+        "risk_assessment": {
+            "score": 3.153845957776113,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE",
+            "OTE",
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-08-24",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2021-44228"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Lockheed Martin JWST supply chain risk"
+    },
+    {
+        "name": "CVE-2023-28771: SIMULATED-3",
+        "description": "This is a simulated vulnerability for testing with keyword: Lockheed Martin JWST supply chain risk",
+        "category": "supply_chain",
+        "risk_assessment": {
+            "score": 5.604307028337873,
+            "severity": "Critical",
+            "exploitability": "Moderate",
+            "impact": "Moderate"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-09-07",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28771"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Lockheed Martin JWST supply chain risk"
+    },
+    {
+        "name": "CVE-2022-0847: SIMULATED-4",
+        "description": "This is a simulated vulnerability for testing with keyword: Lockheed Martin JWST supply chain risk",
+        "category": "supply_chain",
+        "risk_assessment": {
+            "score": 9.085624685861701,
+            "severity": "High",
+            "exploitability": "Moderate",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Tech Industries Components"
+        ],
+        "patch_available": "No",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Tech Industries"
+        ],
+        "due_date": "2025-07-27",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2022-0847"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Lockheed Martin JWST supply chain risk"
+    },
+    {
+        "name": "CVE-2023-28252: SIMULATED-5",
+        "description": "This is a simulated vulnerability for testing with keyword: Lockheed Martin JWST supply chain risk",
+        "category": "supply_chain",
+        "risk_assessment": {
+            "score": 0.7982907345453831,
+            "severity": "Low",
+            "exploitability": "Easy",
+            "impact": "Significant"
+        },
+        "affected_components": [
+            "Generic Corp Components"
+        ],
+        "patch_available": "Planned",
+        "related_assets": [
+            "OTE"
+        ],
+        "mentioned_manufacturers": [
+            "Generic Corp"
+        ],
+        "due_date": "2025-08-27",
+        "sources": [
+            "https://nvd.nist.gov/vuln/detail/CVE-2023-28252"
+        ],
+        "timestamp": "2025-04-14T16:50:25Z",
+        "keyword": "Lockheed Martin JWST supply chain risk"
+    }
+]
