@@ -16,9 +16,8 @@ import os
 import sys
 import json
 import getpass
-import base64
 
-# Configure paths
+# Configure paths - use the same paths as scrape.py
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CONFIG_DIR = os.path.join(SCRIPT_DIR, "config")
 KEY_FILE = os.path.join(CONFIG_DIR, "api_keys.json")
@@ -44,7 +43,7 @@ AVAILABLE_SERVICES = {
 }
 
 def load_api_keys():
-    """Load API keys from storage."""
+    """Load API keys from storage - plaintext only for compatibility."""
     if not os.path.exists(KEY_FILE):
         return {}
         
@@ -56,7 +55,7 @@ def load_api_keys():
         return {}
 
 def save_api_keys(api_keys):
-    """Save API keys to storage."""
+    """Save API keys to storage in plaintext for maximum compatibility."""
     try:
         with open(KEY_FILE, "w") as f:
             json.dump(api_keys, f, indent=2)
@@ -92,6 +91,20 @@ def show_keys():
         # Mask key for security, showing only the last 4 characters
         masked_key = "****" + key[-4:] if len(key) > 4 else "****"
         print(f"{service_name} [{service_id}]: {masked_key}")
+    
+    # Show which API services will be active
+    print("\n=== Active Services ===\n")
+    active_count = 0
+    for service_id, service_name in AVAILABLE_SERVICES.items():
+        if service_id in api_keys and api_keys[service_id]:
+            print(f"✓ {service_name}")
+            active_count += 1
+    
+    if active_count == 0:
+        print("No API services are active. Add keys with: python api_manager.py set")
+    else:
+        print(f"\n{active_count} out of {len(AVAILABLE_SERVICES)} API services are active.")
+        print("The scraper will use these services and skip the others.")
 
 def set_key():
     """Interactive prompt to set API keys."""
@@ -114,6 +127,7 @@ def set_key():
     
     save_api_keys(api_keys)
     print("\nAPI key configuration complete!")
+    print("Your keys are saved in plaintext format for compatibility with the scanner.")
     print("You can now run the scraper with your API keys.")
 
 def delete_key():
@@ -138,6 +152,22 @@ def delete_key():
     save_api_keys(api_keys)
     print("\nAPI key deletion complete!")
 
+def verify_scrape_compatibility():
+    """Check if the API keys are compatible with scrape.py"""
+    if os.path.exists(KEY_FILE):
+        print("\n=== Checking API Key Compatibility ===")
+        try:
+            with open(KEY_FILE, "r") as f:
+                json.load(f) # Try to parse the JSON
+            print("✓ API keys file is valid JSON and should work with scrape.py")
+            return True
+        except json.JSONDecodeError:
+            print("✗ API keys file is not valid JSON. Please recreate it with 'python api_manager.py set'")
+            return False
+    else:
+        print("\nNo API keys file found. Run 'python api_manager.py set' to create one.")
+        return False
+
 def print_help():
     """Print help information."""
     print("\nAPI Key Manager for Vulnerability Scanner")
@@ -148,6 +178,7 @@ def print_help():
     print("  show    - Show your configured API keys (masked)")
     print("  set     - Set or update API keys")
     print("  delete  - Delete API keys")
+    print("  verify  - Check if your API keys file is compatible with scrape.py")
     print("  help    - Show this help information\n")
     print("Example usage:")
     print("  python api_manager.py set\n")
@@ -168,6 +199,8 @@ def main():
         set_key()
     elif command == "delete":
         delete_key()
+    elif command == "verify":
+        verify_scrape_compatibility()
     else:
         print(f"Unknown command: {command}")
         print_help()
