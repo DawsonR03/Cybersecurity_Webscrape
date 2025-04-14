@@ -279,7 +279,7 @@ def main():
         description="Check the status of the cybersecurity intelligence platform"
     )
     parser.add_argument(
-        "--monitor", "-m", action="store_true",
+        "-monitor", "-m", action="store_true",
         help="Monitor mode - continuously update the status"
     )
     parser.add_argument(
